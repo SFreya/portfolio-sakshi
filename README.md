@@ -1,4 +1,5 @@
-# Adarsh Balika
+# Portfolio
 
-This is a learning demo portfolio made during neog.camp lesson 3.
+Hi, this is my portfolio.
+Will update it further soon.
 
